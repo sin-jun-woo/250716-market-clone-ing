@@ -28,5 +28,8 @@
    * Use global.d.ts instead of compilerOptions.types
    * to avoid limiting type declarations.
    */
-  "include": ["src/**/*.d.ts", "src/**/*.js", "src/**/*.svelte"]
+  "include": [
+    "../250716-market-clone-ing/market-clone-ing/src/**/*.d.tsclon../250716-market-clone-ing/market-clone-ing/src/**/*.js*/*.../250716-market-clone-ing/market-clone-ing/src/**/*.sveltearket-clone-ing/src/**/*.js",
+    "../../market-clone-ing/src/**/*.svelte"
+  ]
 }
